@@ -187,7 +187,7 @@ Monitor110 aims to become the **ultimate decision intelligence platform for reta
 
 🔗 **Prototype:**  
 
-https://www.figma.com/make/G3ClUE9oEs7KvxDQwjOw39/Build-News-Insights-Platform?t=Yy9e5UFiG1UAXFeY-1
+https://baste-halo-03692134.figma.site
 ---
 
 ## 📌 Project Status
